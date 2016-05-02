@@ -25,7 +25,8 @@ section h4{
 
 p{
 	border: 1px solid black;
-    background: gray;
+  background: gray;
+  padding-top: 25px;
 }
 
 .chicken-title{
